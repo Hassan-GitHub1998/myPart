@@ -1,0 +1,97 @@
+*{margin:0}
+.contentOne{
+    text-align: center;
+    background-color: #fff
+}
+.contentOne .sizeOne{
+    margin:100px 320px
+}
+.contentOne h1{
+    font-size: 35px;
+    font-weight: 300
+}
+.contentOne span {
+    font-size:38px;
+    font-weight:700
+}
+.contentOne p {
+    font-size:21px;
+    color: dimgray
+}
+.contentTwo{
+    text-align: center;
+    background-color: #fff
+}
+.contentTwo .sizeTwo{
+    margin:100px 0
+}
+.contentTwo h2 {
+    letter-spacing: 2px;
+    font-weight:400;
+    font-size:35px;
+    text-transform: uppercase
+}
+.contentTwo .sizeThree{
+    margin:60px 0 0 0;
+    display:flex
+}
+.contentTwo .sizeTwo .sizeThree .two{
+    text-align: left
+}
+.contentTwo .sizeTwo .sizeThree .two img[alt="carousel"]{
+    width:850px;
+    height:734;
+    display: inline;
+    text-align: left
+}
+.contentTwo .sizeTwo .sizeThree .three{
+    background-color:#FD1245;
+    width:760px;
+    text-align:left;
+    position:relative
+}
+.contentTwo .sizeTwo .sizeThree .three .four{
+    padding:80px 60px
+}
+.contentTwo .sizeTwo .sizeThree .three .four p{
+    font-size:15px;
+    color:#FBB9B9;
+    font-weight:600
+}
+.contentTwo .sizeTwo .sizeThree .three .four h3{
+    font-size:25px;
+    color:#fff;
+    font-weight:700
+}
+.contentTwo .sizeTwo .sizeThree .three .four span {
+    color:#fff;
+    font-weight:600
+}
+.contentTwo .sizeTwo .sizeThree .three .four .speakers{
+    color:#FD1245!important;
+    background-color:#fff;
+    padding:5px;
+    font-size:16px;
+    font-weight:600!important
+}
+.contentTwo .sizeTwo .sizeThree .three .four .speakers img[alt="speaker"]{
+    margin:7px;
+    width:60px;
+    height:60px;
+    border:1px solid #fff
+}
+.contentTwo .sizeTwo .sizeThree .three .four .join{
+    float: left
+}
+.contentTwo .sizeTwo .sizeThree .three .four img[alt="arrow"]{
+    position:absolute;
+    right:20px;
+    top:280px;
+    cursor:pointer
+}
+.contentTwo .sizeTwo .sizeThree .three .four img[alt="arrow2"]{
+    position: absolute;
+    right:20px;
+    top:280px;
+    cursor:pointer
+}
